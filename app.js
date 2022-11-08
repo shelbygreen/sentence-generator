@@ -9,7 +9,7 @@ function changer() {
         "MORE PARKS",
         "LOWER UTILITY BILLS",
         "A PARK IN PROVIDENCE",
-        "THE RED LIGHT CAMERA PROGRAM TO COME BACK",
+        "ZERO CAR ACCIDENTS",
         "LIVABLE WAGES",
         "THE END OF POLICE BRUTALITY",
         "A BETTER TALLAHASSEE",
